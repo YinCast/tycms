@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='http://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+ 
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <title>Tycms by thinkyii</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1>Tycms</h1>
+        <h2>Tycms基于yiiframework的cms，采用apache2.0开源协议。。。</h2>
+        <a href="https://github.com/thinkyii/tycms" class="button"><small>View project on</small>GitHub</a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h1>
+<a name="fircms-" class="anchor" href="#tycms-"><span class="octicon octicon-link"></span></a>Tycms </h1>
+
+<p>Tycms基于yiiframework框架开发，采用apache2.0开源协议。。。</p>
+
+<pre>
+程序开发中。。。
+</pre>
+
+<h3>
+<a name="部署说明" class="anchor" href="#部署说明"><span class="octicon octicon-link"></span></a>部署说明：</h3>
+
+<h4>
+<a name="需要建立3个文件夹 ，与导入数据表" class="anchor" href="#需要建立3个文件夹 ，与导入数据表"><span class="octicon octicon-link"></span></a>需要建立3个文件夹 ，与导入数据表</h4>
+
+<h5>
+<a name="建立3个文件夹" class="anchor" href="#建立3个文件夹"><span class="octicon octicon-link"></span></a>建立3个文件夹</h5>
+
+<ul>
+<li>根目录下新建assets文件夹</li>
+<li>protected目录下新建runtime文件夹</li>
+<li>protected\runtime目录下新建admin文件夹</li>
+</ul><p>如下:</p>
+
+<blockquote>
+<p>assets/</p>
+
+<p>protected/runtime/</p>
+
+<p>protected/runtime/admin</p>
+</blockquote>
+
+<h5>
+<a name="导入数据表" class="anchor" href="#导入数据表"><span class="octicon octicon-link"></span></a>导入数据表</h5>
+
+<blockquote>
+<p>数据库配置文件位置：protected/config/database.php</p>
+
+<p>数据库配置文件位置：protected/data/tycms.xxxx.sql</p>
+</blockquote>
+
+<ul>
+<li>数据库名dbname<br>
+</li>
+<li>数据库帐号username </li>
+<li>数据库密码password</li>
+</ul><pre>
+暂时取消sqlite版本。
+</pre>
+
+<h3>
+<a name="使用说明" class="anchor" href="#使用说明"><span class="octicon octicon-link"></span></a>使用说明：</h3>
+
+<p>程序里已提供2个帐号</p>
+
+<p><em>参数配置文件params.php 可更改创始人</em></p>
+
+<ol>
+<li>创始人</li>
+</ol><blockquote>
+<blockquote>
+<p>帐号/密码:tycms/tycms</p>
+</blockquote>
+</blockquote>
+
+<ol>
+<li>超级管理员</li>
+</ol><blockquote>
+<blockquote>
+<p>帐号/密码:admin/admin</p>
+</blockquote>
+</blockquote>
+
+<h3>
+<a name="架构说明" class="anchor" href="#架构说明"><span class="octicon octicon-link"></span></a>架构说明：</h3>
+
+<p><em>程序以功能模块为核心思路</em></p>
+
+<pre>
+admin/                                   ------后台样式、图片、JS文件
+assets                                   ------包含公开的资源文件
+protected/
+      /config/                           ------配置目录
+             /application                ------应用配置目录
+             /baseconfig.php             ------基础配置文件
+             /custom.php                 ------自定义配置
+             /database.php               ------数据库配置
+             /params.php                 ------自定义参数
+     /extensions                         ------外部扩展库
+     /messages                           ------I18N
+     /models                             ------共用模型
+     /modules/                           ------功能模块目录
+             admin/                      ------后台控制器
+             config/Manifest.php         ------模块配置文件
+             controllers/                ------后台控制器
+             models/                     ------模块模型
+             views/                      ------前台视图目录
+                 /index_index.php        ------前台视图文件
+                 admin/                  ------后台视图目录
+                     /manage_index.php   ------后台视图文件
+themes/
+    default/                             ------默认的前台主题
+index.php                                ------前台单入口文件
+admin.php                                ------后台单入口文件
+
+</pre>
+
+<h3>
+<a name="开发规范" class="anchor" href="#开发规范"><span class="octicon octicon-link"></span></a>开发规范:</h3>
+
+<ol>
+<li>函数与对象方法.对象属性   使用小驼峰式</li>
+<li>视图                      使用全小写带下划线写法</li>
+<li>视图目录(区分于框架官方的层次目录，采用单目录存放)</li>
+<li>数据字段                  使用全小写带下划线</li>
+<li>控制器名/模型名/模块名    采用大驼峰式</li>
+</ol>
+        </section>
+
+        <aside id="sidebar">
+          <a href="https://github.com/thinkyii/tycms/zipball/master" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="https://github.com/thinkyii/tycms/tarball/master" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+
+          <p class="repo-owner"><a href="https://github.com/thinkyii/tycms"></a> is maintained by <a href="https://github.com/thinkyii">thinkyii</a>.</p>
+
+          <p>This page was generated by <a href="pages.github.com">GitHub Pages</a>.</p>
+          
+          <!-- <p>友情链接</p>
+          <p><a href="http://www.thinkyii.com/">Tycms</a></p>
+          <p><a href="http://www.cmsboom.com/">DCMS</a></p>
+          <p><a href="http://www.yincart.com/">Yincart</a></p> -->
+        </aside>
+      </div>
+    </div>
+
+  
+  </body>
+</html>

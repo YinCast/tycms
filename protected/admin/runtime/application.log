@@ -1,0 +1,185 @@
+2013/10/27 23:35:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:35:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/27 23:36:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "admin/login"。' in D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 D:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\tycms\admin.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php?r=admin/login
+---
+2013/10/28 08:47:59 [error] [php] include(Administrator.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (E:\wamp\www\yii-1.1.14\framework\YiiBase.php:427)
+Stack trace:
+#0 E:\wamp\www\tycms\protected\admin\components\UserIdentity.php(27): spl_autoload_call()
+#1 E:\wamp\www\tycms\protected\models\LoginForm.php(52): UserIdentity->authenticate()
+#2 E:\wamp\www\yii-1.1.14\framework\validators\CInlineValidator.php(42): LoginForm->authenticate()
+#3 E:\wamp\www\yii-1.1.14\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#4 E:\wamp\www\yii-1.1.14\framework\base\CModel.php(159): CInlineValidator->validate()
+#5 E:\wamp\www\tycms\protected\admin\controllers\SiteController.php(94): LoginForm->validate()
+#6 E:\wamp\www\yii-1.1.14\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#7 E:\wamp\www\yii-1.1.14\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 E:\wamp\www\yii-1.1.14\framework\web\CController.php(286): SiteController->runAction()
+#9 E:\wamp\www\yii-1.1.14\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#10 E:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(282): SiteController->run()
+#11 E:\wamp\www\yii-1.1.14\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 E:\wamp\www\yii-1.1.14\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 E:\wamp\www\tycms\admin.php(19): CWebApplication->run()
+REQUEST_URI=/admin.php?r=site/login
